@@ -18,4 +18,4 @@
 
 
 
-![](D:\20486C\Labs\20846C-Mod8-Lab-Exercise1\img\Captura1.jpg)
+![](./img/Captura1.jpg)
